@@ -1,0 +1,18 @@
+animal:
+  name: "Tom"
+  color: "yellow"
+  age: "18"
+  sex: "男"
+  hair: "正常"
+cat:
+  name: "lily"
+  color: "red"
+  age: "17"
+  sex: "女"
+  hair: "短发"
+dog:
+  name: "Tony"
+  color: "blue"
+  age: "19"
+  sex: "男"
+  hair: "长发"
